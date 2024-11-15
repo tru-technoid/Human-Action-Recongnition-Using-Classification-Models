@@ -3,7 +3,9 @@
 This project focuses on the recognition and classification of human actions using various machine learning models. The repository includes preprocessing steps, model implementations, and a detailed comparison of performance across different architectures.
 
 The Colab notebook outlines a Human Action Classification, focusing on identifying and analyzing human actions using multiple classification models. 
+
 ---
+
 ### Key sections and models include :
 
 - **Preprocessing** : Data preparation and augmentation steps.
