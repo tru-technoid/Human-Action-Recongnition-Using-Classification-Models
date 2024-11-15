@@ -3,7 +3,7 @@
 This project focuses on the recognition and classification of human actions using various machine learning models. The repository includes preprocessing steps, model implementations, and a detailed comparison of performance across different architectures.
 
 The Colab notebook outlines a Human Action Classification, focusing on identifying and analyzing human actions using multiple classification models. 
-
+---
 ### Key sections and models include :
 
 - **Preprocessing** : Data preparation and augmentation steps.
@@ -13,7 +13,7 @@ The Colab notebook outlines a Human Action Classification, focusing on identifyi
 - **ResNet50 Model** : Using the ResNet50 architecture for feature extraction.
 - **DenseNet Model** : Leveraging DenseNet for action classification.
 - **Comparative Analysis** : Evaluation and comparison of all models.
-
+---
 ## Features
 - **Data Preprocessing**: Includes normalization and augmentation techniques.
 - **Model Implementations**:
