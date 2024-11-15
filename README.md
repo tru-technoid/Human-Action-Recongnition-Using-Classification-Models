@@ -11,3 +11,14 @@ This project focuses on the recognition and classification of human actions usin
   - ResNet50
   - DenseNet
 - **Comparative Analysis**: Performance evaluation of all models.
+  
+## Prerequisites
+- Python 3.x
+- TensorFlow
+- Keras
+- Matplotlib, NumPy, and other essential libraries.
+
+## How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/Human-Action-Recognition.git
