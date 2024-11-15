@@ -2,6 +2,18 @@
 
 This project focuses on the recognition and classification of human actions using various machine learning models. The repository includes preprocessing steps, model implementations, and a detailed comparison of performance across different architectures.
 
+The Colab notebook outlines a Human Action Classification, focusing on identifying and analyzing human actions using multiple classification models. 
+
+## Key sections and models include :
+
+-**Preprocessing** : Data preparation and augmentation steps.
+-**Custom Model** : A tailored model for action recognition.
+-**VGG16 Model** : Transfer learning with the VGG16 architecture.
+-**CNN Model** : Implementation of a Convolutional Neural Network.
+-**ResNet50 Model** : Using the ResNet50 architecture for feature extraction.
+-**DenseNet Model** : Leveraging DenseNet for action classification.
+-**Comparative Analysis** : Evaluation and comparison of all models.
+
 ## Features
 - **Data Preprocessing**: Includes normalization and augmentation techniques.
 - **Model Implementations**:
@@ -35,6 +47,14 @@ This project focuses on the recognition and classification of human actions usin
 ## Results
 - A detailed comparison of model accuracy and efficiency is presented in the notebook.
 
+---
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+---
+
 ## Contributing
 
 We welcome contributions! To get started:
@@ -49,11 +69,5 @@ We welcome contributions! To get started:
 ### Contact
 
 For any **questions** or support, reach out to [trushadowspecter261@gmail.com](mailto:trushadowspecter261@gmail.com).
-
----
-
-## License
-[MIT License](LICENSE)
-```
 
 ---
