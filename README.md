@@ -4,8 +4,6 @@ This project focuses on the recognition and classification of human actions usin
 
 The Colab notebook outlines a Human Action Classification, focusing on identifying and analyzing human actions using multiple classification models. 
 
----
-
 ### Key sections and models include :
 
 - **Preprocessing** : Data preparation and augmentation steps.
@@ -48,6 +46,7 @@ The Colab notebook outlines a Human Action Classification, focusing on identifyi
 
 ## Results
 - A detailed comparison of model accuracy and efficiency is presented in the notebook.
+- With That also this repository contain the Project Description PDF Also Considerd it.
 
 ---
 
