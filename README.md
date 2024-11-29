@@ -1,4 +1,4 @@
-# Human Action Recognition Using Classification Models
+# Human Action Recognition Using Classification Models :
 
 This project focuses on the recognition and classification of human actions using various machine learning models. The repository includes preprocessing steps, model implementations, and a detailed comparison of performance across different architectures.
 
@@ -44,13 +44,14 @@ The Colab notebook outlines a Human Action Classification, focusing on identifyi
    jupyter notebook Human_Action_Recognition.ipynb
    ```
 
-## Results
+## Results  :
+ 
 - A detailed comparison of model accuracy and efficiency is presented in the notebook.
 - With That also this repository contain the Project Description PDF Also Considerd it.
 
 ---
 
-## License
+## License :
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
