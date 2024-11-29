@@ -57,7 +57,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 
-## Contributing
+## Contributing :
 
 We welcome contributions! To get started:
 1. Fork the repository.
@@ -68,7 +68,7 @@ We welcome contributions! To get started:
 
 ---
 
-### Contact
+### Contact :
 
 For any **questions** or support, reach out to [trushadowspecter261@gmail.com](mailto:trushadowspecter261@gmail.com).
 
